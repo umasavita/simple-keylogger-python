@@ -1,0 +1,1 @@
+ [Key.esc] hello [Key.shift] @123hello [Key.shift] @123 [Key.esc] 
